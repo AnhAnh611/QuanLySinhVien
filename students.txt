@@ -1,0 +1,4 @@
+Student 1: [id=0, name=nguyen van b, dob=22-09-2009, address=ha noi, height=89.0, weight=90.0, code=1234567890, school=423, startDate=7888, gpa=9.0, level=XUATSAC]
+Student 2: [id=4, name=vab q, dob=08-08-2345, address=sgg, height=234.0, weight=78.0, code=9876543211, school=asfg, startDate=3456, gpa=8.0, level=GIOI]
+Student 3: [id=6, name=van a, dob=10-10-2323, address=sfe, height=123.0, weight=67.0, code=2342342341, school=agew, startDate=2345, gpa=5.0, level=TRUNGBINH]
+Student 4: [id=7, name=van c, dob=01-01-2000, address=thai nguyen, height=170.0, weight=70.0, code=1234123400, school=akdh, startDate=2020, gpa=9.0, level=XUATSAC]
