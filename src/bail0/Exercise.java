@@ -607,32 +607,7 @@ public class Exercise {
 //			level[5] = new StatisLEVEL((double)totalXuatSac/(double)total * 100,XUATSAC);
 			
 			
-			
-//			Optional<Student> optionalStu = Stream.of(studentss).filter(item -> item.getId() == id).findFirst();
-//			
-//			// Kem 
-//			long countKem = Arrays.stream(studentss).filter(item -> item.getLevel().equals(KEM)).count();
-//			level[0] = new StatisLEVEL(countKem/total * 100,KEM);
-//			// Yeu 
-//			long countYeu = Arrays.stream(studentss).filter(item -> item.getLevel().equals(YEU)).count();
-//			level[1] = new StatisLEVEL(countYeu/total * 100,YEU);
-//			
-//			// TRUNGBINH 
-//			long countTrungBinh  = Arrays.stream(studentss).filter(item -> item.getLevel().equals(TRUNGBINH)).count();
-//			level[2] = new StatisLEVEL(countTrungBinh/total * 100,TRUNGBINH );
-//			
-//			// KHA 
-//			long countKha  = Arrays.stream(studentss).filter(item -> item.getLevel().equals(KHA)).count();
-//			level[3] = new StatisLEVEL(countKha/total * 100,KHA );
-//
-//			// GIOI
-//			long countGioi  = Arrays.stream(studentss).filter(item -> item.getLevel().equals(GIOI)).count();
-//			level[4] = new StatisLEVEL(countGioi/total * 100,GIOI );
-//			
-//			// XuatSAc
-//			long countXuatSac  = Arrays.stream(studentss).filter(item -> item.getLevel().equals(XUATSAC)).count();
-//			level[5] = new StatisLEVEL(countXuatSac/total * 100,XUATSAC) ;
-			
+
 			
 			System.out.println("du lieu thong ke hoc luc");
 	// lấy từ bé đến lớn
